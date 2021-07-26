@@ -16,3 +16,4 @@ Start/End Station and User Type.
 2-Git-KeyTerms.pdf
 
 ### Credits
+Inspired from: https://docs.github.com/en/get-started/
